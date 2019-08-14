@@ -1,7 +1,7 @@
 
 ![W3C Logo](https://www.w3.org/Icons/w3c_home)
 
-> ** This is just a template! It has to be adapted to a specific Working Group **
+> **This is just a template! It has to be adapted to a specific Working Group**
 
 # Decentralized Identifier Working Group
 
