@@ -1,0 +1,25 @@
+baseurl: /2019/did-wg
+groupid: TO_BE_SET
+charter: 2019/@@@TBD@@@
+wgname_lc: template
+wgname_uc: TEMPLATE
+mission: "The mission of the Template Working Group is to standardize ...."
+
+
+#theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - node_modules/
+
+collections:
+  minutes:
+    output: true
+    permalink: /Meetings/Minutes/:name
