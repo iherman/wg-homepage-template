@@ -7,7 +7,7 @@ layout: default
 
 This document defines and describes the DID WG's *Real Work Modes*, including Participation and Communication, Meetings, Calls for Consensus, Mail List usage, and links to important resources.
 
-Note that the [WG's Charter](https://www.w3.org/{{ site.charter }}) formally defines the general framework of the group's working mode. In all cases, the Charter and/or the [W3C Process Document](//www.w3.org/Consortium/Process/) overrides the information in this document. Nevertheless, this document contains additional information about how the group *really* works, so this information may be particularly useful to new members of the group.
+Note that the [WG's Charter](https://www.w3.org{{ site.charter }}) formally defines the general framework of the group's working mode. In all cases, the Charter and/or the [W3C Process Document](//www.w3.org/Consortium/Process/) overrides the information in this document. Nevertheless, this document contains additional information about how the group *really* works, so this information may be particularly useful to new members of the group.
 
 This document is a *Living Document* and as such will change. Members of the group are encouraged to edit (e.g. to update, correct, etc.) the information. Comments about this document are welcome via issues and pull request on the [group’s “admin” repository](https://github.com/w3c/did-wg/) or via emails sent to the group’s [`public-did-wg@w3.org`](mailto:public-did-wg@w3.org) e-mail list, using a subject prefix of <code>[WorkMode]…</code>.
 
@@ -118,14 +118,14 @@ Each repository, including the “core” WG repository, has a wiki instance. Me
 
 ## Process
 
-The [Charter](https://www.w3.org/{{ site.charter }}) and the [W3C Process Document](https://www.w3.org/Consortium/Process/) are the final arbiters of any process question, however the Working Group has adopted some complimentary, additional processes to aid in its productivity.
+The [Charter](https://www.w3.org{{ site.charter }}) and the [W3C Process Document](https://www.w3.org/Consortium/Process/) are the final arbiters of any process question, however the Working Group has adopted some complimentary, additional processes to aid in its productivity.
 
 * Adoption of [guiding technical principles](guiding_principles) towards quickly coming to consensus
 
 
 ## Patent Policy
 
-The WG's Charter defines the [Patent Policy for this group](https://www.w3.org/{{ site.charter }}#patentpolicy):
+The WG's Charter defines the [Patent Policy for this group](https://www.w3.org{{ site.charter }}#patentpolicy):
 
 > This Working Group operates under the [W3C Patent Policy](//www.w3.org/Consortium/Patent-Policy-20040205/) (5 February 2004 Version). To promote the widest adoption of Web standards, W3C seeks to issue Recommendations that can be implemented, according to this policy, on a Royalty-Free basis. For more information about disclosure obligations for this group, please see the [W3C Patent Policy Implementation](//www.w3.org/2004/01/pp-impl/).
 
