@@ -46,7 +46,7 @@
             <script src="https://w3c.github.io/apiary/apiary.js"></script>
 
             <section id=mission> 
-                <p>Mission: {{ site.mission }}</span>
+                <p data-apiary="description">[Loading...]</p>
 
                 <p>The co-chairs of the group are <span class="apiary chairs" data-apiary="chairs">[Loading...]</span>. The staff contact is <span class="apiary" data-apiary="team-contacts">[Loading...]</span>. The group is chartered until: <span data-apiary="end-date">[Loading...]</span></p>
             </section>
@@ -55,6 +55,11 @@
                 {{ content }}
             </section>
 
+            <section id='participants'>
+                <h3>Specifications</h3>
+                <div data-apiary="specifications">[Loading...]</div>
+            </section>
+  
             <section id="minutes">
                 <h2><a href="Meetings/Minutes/">Meeting Minutes</a></h2>
                 <ul class="inline">
@@ -68,6 +73,7 @@
                 {% endif %}
                 </ul>
             </section>
+
             <section id='articles'>
     			<h2>Latest activity news</h2>
                 <p>(See the <a href="https://www.w3.org/blog/category/technology/{{ site.wgname_lc }}/">activity blog</a> for all the news.)</p>

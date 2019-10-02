@@ -1,9 +1,8 @@
 baseurl: /2019/did-wg
-groupid: TO_BE_SET
+groupid: TBD
 charter: /2019/@@@TBD@@@
 wgname_lc: template
 wgname_uc: TEMPLATE
-mission: "The mission of the Template Working Group is to standardize ...."
 
 
 #theme: jekyll-theme-minimal
