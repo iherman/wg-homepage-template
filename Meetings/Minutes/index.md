@@ -18,7 +18,7 @@ layout: default
 <ul>
 {% for item in year.items reversed %}
   <li>{{ item.date | date: '%d %B' }}:
-    <a href="{{ site.baseurl }}{{ item.url }}">Telco Minutes</a>
+    <a href="{{ site.baseurl }}{{ item.url }}">Meeting Minutes</a>
   </li>
 {% endfor %}
 </ul>
