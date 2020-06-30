@@ -9,7 +9,7 @@ This document defines and describes the {{ site.wgname_uc }} WG's *Real Work Mod
 
 Note that the [WG's Charter](https://www.w3.org{{ site.charter }}) formally defines the general framework of the group's working mode. In all cases, the Charter and/or the [W3C Process Document](//www.w3.org/Consortium/Process/) overrides the information in this document. Nevertheless, this document contains additional information about how the group *really* works, so this information may be particularly useful to new members of the group.
 
-This document is a *Living Document* and as such will change. Members of the group are encouraged to edit (e.g. to update, correct, etc.) the information. Comments about this document are welcome via issues and pull request on the [group’s “admin” repository]({{ site.github }) or via emails sent to the group’s [`public-{{ site.wgname_lc }}-wg@w3.org`](mailto:public-{{ site.wgname_lc }}-wg@w3.org) e-mail list, using a subject prefix of <code>[WorkMode]…</code>.
+This document is a *Living Document* and as such will change. Members of the group are encouraged to edit (e.g. to update, correct, etc.) the information. Comments about this document are welcome via issues and pull request on the [group’s “admin” repository]({{ site.github }}) or via emails sent to the group’s [`public-{{ site.wgname_lc }}-wg@w3.org`](mailto:public-{{ site.wgname_lc }}-wg@w3.org) e-mail list, using a subject prefix of <code>[WorkMode]…</code>.
 
 **Table of Content**
 * TOC

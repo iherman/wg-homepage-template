@@ -1,9 +1,12 @@
 baseurl: /2019/did-wg
-groupid: TBD
+groupid: 117488
 charter: /2019/@@@TBD@@@
-wgname_lc: template
+wgname_db: did
+wgname_lc: did-wg
 wgname_uc: TEMPLATE
-github: https://github.com/w3c/@@@/
+github: https://github.com/w3c/template/
+extra_call_id: did-topic
+
 
 
 #theme: jekyll-theme-minimal

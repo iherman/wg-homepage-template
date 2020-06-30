@@ -6,7 +6,7 @@
             </ul>
             <script async defer>
 let repos_list = document.getElementById('github-repositories-list');
-fetch('https://api.github.com/search/repositories?q=topic:{{ site.wgname_lc }}-wg')
+fetch('https://api.github.com/search/repositories?q=topic:{{ site.wgname_lc }}')
   .then((r) => r.json())
   .then((repos) => {
     if ('items' in repos) {

@@ -11,7 +11,7 @@ layout: default
 ## Teleconferences
 
 
-The weekly teleconferences are held _@@@TOBD@@@_, at *@@@TOBD@@@* (see the [time zone calculator](https://tinyurl.com/@@@TOBD@@@) for the exact timing for your time zone). See the [separate page](./webex) for the dial-in information.
+The weekly teleconferences are held _@@@TOBD@@@_, at *@@@TOBD@@@* (see the [time zone calculator](https://tinyurl.com/@@@TOBD@@@) for the exact timing for your time zone). See the [separate page](./zoom) for the dial-in information.
 
 The Group also uses IRC for during the calls for minute taking, queue control, and general chit-chat. See the [separate page at W3C](https://www.w3.org/Project/IRC/) for further details. This Working Group uses the `#did` channel, and makes use of two bots on IRC:
 
@@ -21,7 +21,7 @@ The Group also uses IRC for during the calls for minute taking, queue control, a
 
 ## F2F meetings
 
-* 2019 - [September 16-17, Fukuoka, Japan](./F2F/2019.09.Fuk)
+* somewhere....
 
 ## Meeting Minutes
 
@@ -41,6 +41,6 @@ Minute taking and cleanup is greatly helped by:
 
 ### Updating the minutes
 
-The minutes themselves are stored, in Markdown (more exactly in “Kramdown”) on the WG’s core [github repository](https://github.com/w3c/did-wg) in the `_minutes` folder.
+The minutes themselves are stored, in Markdown (more exactly in “Kramdown”) on the WG’s core [github repository](https://github.com/w3c/{{ site.wgname_lc }}) in the `_minutes` folder.
 
 As described in the [separate page on our working mode](../WorkMode/index#telco), meeting minutes are considered as “Draft” until officially approved after five business days, usually at the subsequent meeting. During that period, if a participant requests a change in the minutes, he/she can issue, for example, a Pull Request with the proposed changes.
