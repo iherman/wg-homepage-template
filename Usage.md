@@ -23,9 +23,10 @@ The template is meant to be cloned for a new Working Group and used to set up as
   - `charter`: the "path" part of the WG's final charter
   - `wgname_lc`: WG's name in lower case form; used to set, e.g., the mailing list names and archive URL-s
   - `wgname_uc`: WG's name in Upper Case form; used to set, e.g., the titles
-  - 'mission': The short mission statement of the WG; set in the preambles of the pages.
+  - `extra_call_id`: some groups have, beyond the regular WG calls, regular extra calls (e.g., `did-topic`) for which they use separate IRC logs. This term refers to those and is used to separate, in the list of minutes, the regular call minutes from the special calls.
+  - `mission`: The short mission statement of the WG; set in the preambles of the pages (at the moment this is unused, it is retrieved automatically)
   
-  These variables do _not_ handle all necessary changes. Look for the `TBD` string in the files... Also, these variable do not affect the accompanying files like `w3c.json`, `README.md`, etc; you should check them.
+  These variables do _not_ handle _all_ necessary changes. Look for the `TBD` string in the files... Also, these variable do not affect the accompanying files like `w3c.json`, `README.md`, etc; you should check them.
 
 
 ## Testing locally
